@@ -9,6 +9,9 @@ var Module = (function(window, undefined){
 		console.log("public");
 	}
 
+	/**
+	 * return public methods
+	**/
 	return {
 		publicMethod: publicMethod
 	}
