@@ -1,3 +1,4 @@
+/* this is a module */
 ; 
 var Module = (function(window, undefined){
 
@@ -11,7 +12,7 @@ var Module = (function(window, undefined){
 
 	/**
 	 * return public methods
-	**/
+	 **/
 	return {
 		publicMethod: publicMethod
 	}
